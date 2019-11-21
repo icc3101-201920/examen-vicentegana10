@@ -51,9 +51,9 @@ namespace ConsoleApp1
             }
         }
 
-        public void Sumergirse()
+        public void Hundirse(Board px)
         {
-
+            
         }
     }
 }

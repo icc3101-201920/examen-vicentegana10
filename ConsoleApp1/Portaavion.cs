@@ -51,5 +51,10 @@ namespace ConsoleApp1
                 this.name = value;
             }
         }
+
+        public void Enviar()
+        {
+
+        }
     }
 }

@@ -12,9 +12,9 @@ namespace ConsoleApp1
         string name;
         int lives;
         int moveSpaces;
-        int[] positionI;
+        int[] positionI;  
         int[] positionF;
-        // bool horizontal;
+        int[] posicionA;
 
         public Boat() { }
 
@@ -23,6 +23,7 @@ namespace ConsoleApp1
         public int MoveSpaces { get => moveSpaces; set => moveSpaces = value; }
         public int[] PositionI { get => positionI; set => positionI = value; }
         public int[] PositionF { get => positionF; set => positionF = value; }
+        public int[] PosicionA { get => posicionA; set => posicionA = value; }
     }
 
 }

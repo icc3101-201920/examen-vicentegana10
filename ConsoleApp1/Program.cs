@@ -10,8 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Board b1 = new Board();
-            b1.Imprimir();
+            
             Game g = new Game();
 
 
